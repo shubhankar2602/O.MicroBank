@@ -20,5 +20,7 @@ FRONTEND
 
 1. Open the folder [C:\Oracle project\frontend\banking-app>] in VS code [Your path might be different]
 
-2. type npm start
+2. type 
+        npm install
+        npm start
 
